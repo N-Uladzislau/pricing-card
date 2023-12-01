@@ -12,17 +12,18 @@ Brief description or tagline about your project.
 - [Contact](#contact)
 
 ## Introduction
-Provide a brief overview of your project. Explain its purpose, features, and what makes it unique.
+This project presents my first foray into HTML and CSS. It's a basic yet pivotal demonstration of foundational skills, marking the starting point of my journey into front-end development.
 
 ## Installation
 Describe the steps to install or run your project locally. Include any prerequisites or dependencies.
 
-Example:
 ## Usage
-Explain how to use your project. For instance, if it's a website, describe how to navigate through it.
+1. You can use link 
+
 
 ## Screenshots
-[Insert screenshots or a GIF/video demonstrating your project in action.](https://github.com/N-Uladzislau/pricing-card/blob/main/src/desktop.png.png)
+[desktop-src](https://github.com/N-Uladzislau/pricing-card/blob/main/src/desktop.png.png)
+[mobile-src](https://github.com/N-Uladzislau/pricing-card/blob/main/src/mobile.png.png)
 
 ## Technologies Used
 List the technologies, frameworks, or languages you used in building this project.
