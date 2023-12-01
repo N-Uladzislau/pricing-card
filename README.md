@@ -22,7 +22,7 @@ Example:
 Explain how to use your project. For instance, if it's a website, describe how to navigate through it.
 
 ## Screenshots
-Insert screenshots or a GIF/video demonstrating your project in action.
+[Insert screenshots or a GIF/video demonstrating your project in action.](https://github.com/N-Uladzislau/pricing-card/blob/main/src/desktop.png.png)
 
 ## Technologies Used
 List the technologies, frameworks, or languages you used in building this project.
