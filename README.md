@@ -22,8 +22,8 @@ Describe the steps to install or run your project locally. Include any prerequis
 
 
 ## Screenshots
-[desktop-src](https://github.com/N-Uladzislau/pricing-card/blob/main/src/desktop.png.png)
-[mobile-src](https://github.com/N-Uladzislau/pricing-card/blob/main/src/mobile.png.png)
+[desktop](https://github.com/N-Uladzislau/pricing-card/blob/main/src/desktop.png)
+[mobile](https://github.com/N-Uladzislau/pricing-card/blob/main/src/mobile.png)
 
 ## Technologies Used
 List the technologies, frameworks, or languages you used in building this project.
