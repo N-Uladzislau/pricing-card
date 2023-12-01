@@ -1,6 +1,6 @@
 # Project Title
-
-Brief description or tagline about your project.
+- CHALLENGE HUB
+Single price grid component
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,24 +18,20 @@ This project presents my first foray into HTML and CSS. It's a basic yet pivotal
 Describe the steps to install or run your project locally. Include any prerequisites or dependencies.
 
 ## Usage
-1. You can use link 
-
+1. link for 'github-pages'  https://n-uladzislau.github.io/pricing-card/
+2. link for  'vercel'     https://pricing-card-drab.vercel.app/
+3. link for 'netlify'   https://vl-pricing-card.netlify.app/
 
 ## Screenshots
 [desktop](https://github.com/N-Uladzislau/pricing-card/blob/main/src/desktop.png)
 [mobile](https://github.com/N-Uladzislau/pricing-card/blob/main/src/mobile.png)
 
 ## Technologies Used
-List the technologies, frameworks, or languages you used in building this project.
 
-Example:
 - HTML5
 - CSS3
-- Bootstrap
-
-## Future Improvements
-Share your ideas for future enhancements or features you plan to add to the project.
+- JavaScript
+  
 
 ## Contact
-If you're open to feedback, collaboration, or have any questions, provide your contact information or GitHub profile link.
-Feel free to customize and expand upon each section based on your project's specifics 
+[linkedIn](https://www.linkedin.com/in/n-uladzislau/)
