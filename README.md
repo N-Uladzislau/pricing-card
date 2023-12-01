@@ -1,6 +1,5 @@
 # Project Title
-- CHALLENGE HUB
-Single price grid component
+- Single price grid component
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,8 +17,8 @@ This project presents my first foray into HTML and CSS. It's a basic yet pivotal
 3. link for 'netlify'   https://vl-pricing-card.netlify.app/
 
 ## Screenshots
-[desktop](https://github.com/N-Uladzislau/pricing-card/blob/main/src/desktop.png)
-[mobile](https://github.com/N-Uladzislau/pricing-card/blob/main/src/mobile.png)
+[desktop-layout](https://github.com/N-Uladzislau/pricing-card/blob/main/src/desktop.png)
+[mobile-layout](https://github.com/N-Uladzislau/pricing-card/blob/main/src/mobile.png)
 
 ## Technologies Used
 - HTML5
