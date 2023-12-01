@@ -19,6 +19,7 @@ This project presents my first foray into HTML and CSS. It's a basic yet pivotal
 
 ## Screenshots
 [desktop](https://github.com/N-Uladzislau/pricing-card/blob/main/src/desktop.png)
+
 [mobile](https://github.com/N-Uladzislau/pricing-card/blob/main/src/mobile.png)
 
 ## Technologies Used
